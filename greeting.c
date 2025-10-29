@@ -12,4 +12,5 @@ int main()
 // tmux related
 //t
 //after gitignore:w
-
+// I've made manny changed but not tracted??:w
+// 
