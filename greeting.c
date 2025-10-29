@@ -9,3 +9,7 @@ int main()
 }
 // chang1 in file add line
 // ringo2 authoer
+// tmux related
+//t
+//after gitignore:w
+
