@@ -1,3 +1,0 @@
-ssh added 
-add.
-git puth --set-upstream origin main
